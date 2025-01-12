@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "ecologics:azalea_planks"
+    },
+    {
+      "item": "ecologics:azalea_planks"
+    },
+    {
+      "item": "ecologics:azalea_planks"
+    },
+    {
+      "item": "minecraft:purple_bed"
+    },
+    {
+      "item": "ecologics:azalea_fence"
+    },
+    {
+      "item": "ecologics:azalea_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:azalea_ecologics_purple_classic_bed"
+  }
+}

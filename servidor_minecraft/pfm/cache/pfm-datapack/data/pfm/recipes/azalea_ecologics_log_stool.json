@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "ecologics:azalea_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:azalea_ecologics_log_stool"
+  }
+}

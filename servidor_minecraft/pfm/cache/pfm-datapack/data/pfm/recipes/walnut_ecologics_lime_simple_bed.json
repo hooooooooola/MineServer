@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "ecologics:walnut_planks"
+    },
+    {
+      "item": "ecologics:walnut_planks"
+    },
+    {
+      "item": "ecologics:walnut_planks"
+    },
+    {
+      "item": "ecologics:walnut_planks"
+    },
+    {
+      "item": "ecologics:walnut_planks"
+    },
+    {
+      "item": "minecraft:lime_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:walnut_ecologics_lime_simple_bed"
+  }
+}

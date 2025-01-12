@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "ecologics:walnut_planks"
+    },
+    {
+      "item": "ecologics:walnut_planks"
+    },
+    {
+      "item": "ecologics:walnut_planks"
+    },
+    {
+      "item": "ecologics:stripped_walnut_log"
+    },
+    {
+      "item": "ecologics:stripped_walnut_log"
+    },
+    {
+      "item": "ecologics:stripped_walnut_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_walnut_ecologics_chair_dinner"
+  }
+}

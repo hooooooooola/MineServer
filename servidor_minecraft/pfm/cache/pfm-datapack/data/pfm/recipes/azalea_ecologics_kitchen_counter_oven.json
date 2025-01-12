@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "ecologics:azalea_log"
+    },
+    {
+      "item": "ecologics:azalea_log"
+    },
+    {
+      "item": "ecologics:azalea_log"
+    },
+    {
+      "item": "ecologics:azalea_log"
+    },
+    {
+      "item": "ecologics:azalea_log"
+    },
+    {
+      "item": "ecologics:azalea_planks"
+    },
+    {
+      "item": "ecologics:azalea_planks"
+    },
+    {
+      "item": "ecologics:azalea_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:azalea_ecologics_kitchen_counter_oven"
+  }
+}

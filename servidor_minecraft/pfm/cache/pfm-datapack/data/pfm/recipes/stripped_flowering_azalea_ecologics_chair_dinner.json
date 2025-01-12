@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "ecologics:flowering_azalea_planks"
+    },
+    {
+      "item": "ecologics:flowering_azalea_planks"
+    },
+    {
+      "item": "ecologics:flowering_azalea_planks"
+    },
+    {
+      "item": "ecologics:stripped_azalea_log"
+    },
+    {
+      "item": "ecologics:stripped_azalea_log"
+    },
+    {
+      "item": "ecologics:stripped_azalea_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_flowering_azalea_ecologics_chair_dinner"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "ecologics:coconut_planks"
+    },
+    {
+      "item": "ecologics:coconut_planks"
+    },
+    {
+      "item": "ecologics:coconut_planks"
+    },
+    {
+      "item": "ecologics:coconut_planks"
+    },
+    {
+      "item": "ecologics:coconut_planks"
+    },
+    {
+      "item": "minecraft:magenta_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:coconut_ecologics_magenta_simple_bed"
+  }
+}

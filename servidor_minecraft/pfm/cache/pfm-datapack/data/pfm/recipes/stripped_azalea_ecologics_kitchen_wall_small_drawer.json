@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "ecologics:stripped_azalea_log"
+    },
+    {
+      "item": "ecologics:stripped_azalea_log"
+    },
+    {
+      "item": "ecologics:stripped_azalea_log"
+    },
+    {
+      "item": "ecologics:azalea_planks"
+    },
+    {
+      "item": "ecologics:azalea_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:stripped_azalea_ecologics_kitchen_wall_small_drawer"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "ecologics:coconut_planks"
+    },
+    {
+      "item": "ecologics:coconut_planks"
+    },
+    {
+      "item": "ecologics:coconut_planks"
+    },
+    {
+      "item": "ecologics:coconut_planks"
+    },
+    {
+      "item": "ecologics:coconut_planks"
+    },
+    {
+      "item": "ecologics:coconut_planks"
+    },
+    {
+      "item": "ecologics:stripped_coconut_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_coconut_ecologics_classic_nightstand"
+  }
+}

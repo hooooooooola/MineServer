@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "ecologics:flowering_azalea_planks"
+    },
+    {
+      "item": "ecologics:flowering_azalea_planks"
+    },
+    {
+      "item": "ecologics:flowering_azalea_planks"
+    },
+    {
+      "item": "ecologics:flowering_azalea_log"
+    },
+    {
+      "item": "ecologics:flowering_azalea_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:flowering_azalea_ecologics_kitchen_wall_small_drawer"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "ecologics:walnut_log"
+    },
+    {
+      "item": "ecologics:walnut_log"
+    },
+    {
+      "item": "ecologics:walnut_log"
+    },
+    {
+      "item": "ecologics:walnut_log"
+    },
+    {
+      "item": "ecologics:walnut_log"
+    },
+    {
+      "item": "ecologics:walnut_log"
+    },
+    {
+      "item": "ecologics:walnut_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:walnut_ecologics_classic_nightstand"
+  }
+}

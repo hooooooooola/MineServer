@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "ecologics:stripped_coconut_log"
+    },
+    {
+      "item": "ecologics:stripped_coconut_log"
+    },
+    {
+      "item": "ecologics:stripped_coconut_log"
+    },
+    {
+      "item": "ecologics:stripped_coconut_log"
+    },
+    {
+      "item": "ecologics:stripped_coconut_log"
+    },
+    {
+      "item": "ecologics:coconut_planks"
+    },
+    {
+      "item": "ecologics:coconut_planks"
+    },
+    {
+      "item": "ecologics:coconut_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_coconut_ecologics_kitchen_drawer"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "ecologics:azalea_log"
+    },
+    {
+      "item": "ecologics:azalea_log"
+    },
+    {
+      "item": "ecologics:azalea_log"
+    },
+    {
+      "item": "ecologics:azalea_log"
+    },
+    {
+      "item": "ecologics:azalea_log"
+    },
+    {
+      "item": "ecologics:azalea_log"
+    },
+    {
+      "item": "ecologics:azalea_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:azalea_ecologics_classic_nightstand"
+  }
+}

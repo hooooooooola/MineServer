@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "ecologics:flowering_azalea_planks"
+    },
+    {
+      "item": "ecologics:flowering_azalea_planks"
+    },
+    {
+      "item": "ecologics:flowering_azalea_planks"
+    },
+    {
+      "item": "ecologics:flowering_azalea_planks"
+    },
+    {
+      "item": "ecologics:flowering_azalea_planks"
+    },
+    {
+      "item": "ecologics:flowering_azalea_planks"
+    },
+    {
+      "item": "ecologics:flowering_azalea_planks"
+    },
+    {
+      "item": "ecologics:flowering_azalea_planks"
+    },
+    {
+      "item": "ecologics:flowering_azalea_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:flowering_azalea_ecologics_kitchen_wall_counter"
+  }
+}

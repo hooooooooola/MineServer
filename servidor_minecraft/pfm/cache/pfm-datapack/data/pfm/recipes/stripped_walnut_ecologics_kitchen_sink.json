@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "ecologics:stripped_walnut_log"
+    },
+    {
+      "item": "ecologics:stripped_walnut_log"
+    },
+    {
+      "item": "ecologics:stripped_walnut_log"
+    },
+    {
+      "item": "ecologics:stripped_walnut_log"
+    },
+    {
+      "item": "ecologics:stripped_walnut_log"
+    },
+    {
+      "item": "ecologics:walnut_planks"
+    },
+    {
+      "item": "ecologics:walnut_planks"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_walnut_ecologics_kitchen_sink"
+  }
+}

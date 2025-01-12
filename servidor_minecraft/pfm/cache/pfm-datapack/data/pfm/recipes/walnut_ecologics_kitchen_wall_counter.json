@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "ecologics:walnut_planks"
+    },
+    {
+      "item": "ecologics:walnut_planks"
+    },
+    {
+      "item": "ecologics:walnut_planks"
+    },
+    {
+      "item": "ecologics:walnut_planks"
+    },
+    {
+      "item": "ecologics:walnut_planks"
+    },
+    {
+      "item": "ecologics:walnut_planks"
+    },
+    {
+      "item": "ecologics:walnut_planks"
+    },
+    {
+      "item": "ecologics:walnut_planks"
+    },
+    {
+      "item": "ecologics:walnut_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:walnut_ecologics_kitchen_wall_counter"
+  }
+}

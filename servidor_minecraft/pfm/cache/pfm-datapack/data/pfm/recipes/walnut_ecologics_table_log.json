@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "ecologics:walnut_log"
+    },
+    {
+      "item": "ecologics:walnut_log"
+    },
+    {
+      "item": "ecologics:walnut_planks"
+    },
+    {
+      "item": "ecologics:walnut_planks"
+    },
+    {
+      "item": "ecologics:walnut_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:walnut_ecologics_table_log"
+  }
+}

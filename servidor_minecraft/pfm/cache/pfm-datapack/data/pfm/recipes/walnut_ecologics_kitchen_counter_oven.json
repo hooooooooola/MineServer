@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "ecologics:walnut_log"
+    },
+    {
+      "item": "ecologics:walnut_log"
+    },
+    {
+      "item": "ecologics:walnut_log"
+    },
+    {
+      "item": "ecologics:walnut_log"
+    },
+    {
+      "item": "ecologics:walnut_log"
+    },
+    {
+      "item": "ecologics:walnut_planks"
+    },
+    {
+      "item": "ecologics:walnut_planks"
+    },
+    {
+      "item": "ecologics:walnut_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:walnut_ecologics_kitchen_counter_oven"
+  }
+}

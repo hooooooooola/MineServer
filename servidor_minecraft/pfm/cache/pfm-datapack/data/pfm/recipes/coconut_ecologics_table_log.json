@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "ecologics:coconut_log"
+    },
+    {
+      "item": "ecologics:coconut_log"
+    },
+    {
+      "item": "ecologics:coconut_planks"
+    },
+    {
+      "item": "ecologics:coconut_planks"
+    },
+    {
+      "item": "ecologics:coconut_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:coconut_ecologics_table_log"
+  }
+}

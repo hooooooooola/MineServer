@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "ecologics:flowering_azalea_log"
+    },
+    {
+      "item": "ecologics:flowering_azalea_log"
+    },
+    {
+      "item": "ecologics:flowering_azalea_planks"
+    },
+    {
+      "item": "ecologics:flowering_azalea_planks"
+    },
+    {
+      "item": "ecologics:flowering_azalea_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:flowering_azalea_ecologics_table_log"
+  }
+}
